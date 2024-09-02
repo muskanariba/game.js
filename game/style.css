@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+}
+body{
+    height: 100vh;
+    
+    background-image: url(bg.gif);
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+.character{
+    position: absolute;
+    bottom: 30px;
+   height: 200px;
+}
+.char{
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    height: 200px;
+}
